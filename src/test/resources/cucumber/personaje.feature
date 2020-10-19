@@ -1,4 +1,4 @@
-Feature: character health
+Feature: character
 
   Scenario: attack a character with common attack
     Given a character

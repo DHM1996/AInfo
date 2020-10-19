@@ -9,8 +9,7 @@ Feature: character health
     Given a character
     When I attack character with a power of 50
     Then the health of the character must be 50
-
-
+    
   Scenario: character dead
     Given a character
     When I attack a character with a common attack four times
